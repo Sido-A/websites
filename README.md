@@ -18,5 +18,5 @@
 <br/>🖥️[Bank Landing Page](https://sido-a.github.io/landing_page_banking/)
 <br/>To github repo [https://github.com/Sido-A/landing_page_banking](https://github.com/Sido-A/landing_page_banking)
 
-<br/>🖥️[Pixel Art Canvas App](https://sido-a.github.io/landing_page_banking/)
+<br/>🖥️[Pixel Art Canvas App](https://sido-a.github.io/pixel-art-js/)
 <br/>To github repo [https://github.com/Sido-A/pixel-art-js](https://github.com/Sido-A/pixel-art-js)
